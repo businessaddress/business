@@ -1,21 +1,22 @@
 {
   "name": "express-ejs-frame",
-  "version": "0.12.5",
-  "description": "node.js layout support for EJS templates in Express applications",
+  "version": "0.12.6",
+  "description": "node.js express.js layout",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "test"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/businessaddress/business.git"
   },
   "keywords": [
-    "Node.js",
-    "Express.js",
-    "Layout"
+    "node.js",
+    "express.js",
+    "layout",
+    "frame"
   ],
-  "author": "William Jackson",
+  "author": "james weiss",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/businessaddress/business/issues"
